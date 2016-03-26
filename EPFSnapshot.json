@@ -1,0 +1,31 @@
+{
+    "dirsToImport": [
+        "/Users/max/Downloads/itunes20160316/"
+    ], 
+    "dirsLeft": [
+        "/Users/max/Downloads/itunes20160316/"
+    ], 
+    "currentDict": {
+        "fieldSep": "\u0001", 
+        "filesToImport": [
+            "media_type"
+        ], 
+        "failedFiles": [
+            "media_type"
+        ], 
+        "recordSep": "\u0002\n", 
+        "dirPath": "/Users/max/Downloads/itunes20160316", 
+        "filesImported": [], 
+        "filesLeft": [
+            "media_type"
+        ]
+    }, 
+    "bList": [
+        "^\\.", 
+        ".*\\..*?"
+    ], 
+    "tablePrefix": "epf", 
+    "wList": [
+        ".*?"
+    ]
+}

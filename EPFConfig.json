@@ -1,15 +1,16 @@
 {
-    "fieldSep": "\u0001",
-    "recordSep": "\u0002\n",
-    "dbHost": "localhost",
-    "dbName": "epf",
-    "dbUser": "epfimporter",
-    "dbPassword": "epf123",
-    "tablePrefix": "epf",
-    "allowExtensions": false,
+    "fieldSep": "\u0001", 
+    "allowExtensions": false, 
+    "dbType": "mysql", 
+    "dbHost": "localhost", 
+    "recordSep": "\u0002\n", 
+    "dbName": "epf", 
     "blackList": [
         "^\\."
-    ],
+    ], 
+    "dbPassword": "epf123", 
+    "dbUser": "epfimporter", 
+    "tablePrefix": "epf", 
     "whiteList": [
         ".*?"
     ]
